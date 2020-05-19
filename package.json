@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "sendbird": "^3.0.122",
+    "tailwindcss": "^1.4.6",
     "vue": "^2.6.11",
     "vuex": "^3.1.3"
   },
